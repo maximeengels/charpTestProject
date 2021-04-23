@@ -3,7 +3,8 @@ This project was bootstrapped with
 
 ## Available Scripts
 
-Start by installing the packages using npm i
+Start by installing the packages using 
+### `npm i`
 <br />
 In the project directory, you can run:
 
